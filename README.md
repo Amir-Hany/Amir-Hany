@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Amir-Hany
-- 👀 I’m interested in cyber security
+- 👀 I’m interested in cyber security, and frontend web development
 - 🌱 I’m currently learning frontend web development and cyber security
 - 📫 How to reach me try my gmail: mirohani2@gmail.com
 
