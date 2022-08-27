@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Amir-Hany
 - 👀 I’m interested in cyber security, and frontend web development
-- 🌱 I’m currently learning frontend web development and cyber security
+- 🌱 I’m currently learning frontend web development and some libraries like Angular and React
 - 📫 How to reach me try my gmail: mirohani2@gmail.com
 
 <!---
